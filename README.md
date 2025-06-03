@@ -1,6 +1,6 @@
-# Gestión de Tareas con React y Backend Local
+# Gestión de Tareas con React y FastAPI
 
-Aplicación sencilla para gestionar tareas, desarrollada con React en el frontend y un backend local que ofrece una API REST para listar y crear tareas. Ideal para practicar la integración de un frontend moderno con un backend propio y manejar problemas comunes como CORS.
+Aplicación sencilla para gestionar tareas, desarrollada con React en el frontend y un backend local con FastAPI que ofrece una API REST para listar y crear tareas. Ideal para practicar la integración de un frontend moderno con un backend en Python y manejar problemas comunes como CORS.
 
 ---
 
@@ -10,6 +10,7 @@ Aplicación sencilla para gestionar tareas, desarrollada con React en el fronten
 - Añadir nuevas tareas con validación básica.
 - Manejo de errores y estados de carga.
 - Arquitectura modular y clara en React.
+- Backend rápido y eficiente con FastAPI.
 - Configuración para evitar errores CORS en desarrollo local.
 
 ---
@@ -19,4 +20,4 @@ Aplicación sencilla para gestionar tareas, desarrollada con React en el fronten
 - React 18 con Hooks
 - Vite (bundler y servidor de desarrollo)
 - Fetch API para comunicación HTTP
-- Backend local con API REST
+- FastAPI (Python) para el backend REST
